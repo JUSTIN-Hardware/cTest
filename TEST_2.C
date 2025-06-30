@@ -21,7 +21,7 @@ int main()
     {
     printf("error : array size fix 1~%d.\n",BUFFER_SIZE);
     return 1;
-    }
+    } 
 
     array_input(array,size);
 
@@ -34,7 +34,6 @@ int main()
   
     return 0;
    
-
 }
 
 
